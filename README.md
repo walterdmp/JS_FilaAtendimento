@@ -16,5 +16,8 @@
 ### Tela principal:
 
 <figure>
-  <img src="assets/tela_principal.png" alt="Tela Principal">
+  <img src="assets/tela_1.png" alt="Tela Principal 1">
+</figure>
+<figure>
+  <img src="assets/tela_2.png" alt="Tela Principal 2">
 </figure>
