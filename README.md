@@ -4,14 +4,16 @@
 * JavaScript
 * HTML
 * CSS
+* Bootstrap
 
 ### Ferramentas Utilizadas:
 * Visual Studio Code
 
 ### Funções do Software:
-* Verificação do novo recorde antes de adicioná-lo à lista principal;
-* Movimentação de um recorde da lista principal para a lista auxiliar;
-* Visualização das listas em tempo real nas áreas de listagem;
+* Incluir Pessoa: Permite adicionar uma pessoa à fila de atendimento;
+◦ Atender Pessoa: Registra o atendimento de uma pessoa, exibindo a hora de entrada, saída e o tempo total de permanência na fila;
+◦ Verificar Pessoas na Fila: Apresenta a lista das pessoas atualmente na fila de atendimento.
+◦ Buscar por CPF: Possibilita a localização rápida de uma pessoa na fila utilizando seu CPF como parâmetro de busca.
 
 ### Tela principal:
 
